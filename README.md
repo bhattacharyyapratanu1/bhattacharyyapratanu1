@@ -1,4 +1,4 @@
-# Hey there, I'm Pratanu! <img width="56" height="56" alt="Animated football player juggling a ball" src="https://gifdb.com/images/high/transparent-anime-football-player-ball-kicking-yzmuob5ojq3v7dbk.gif" />
+# Hey there, I'm Pratanu! <img width="56" height="56" alt="The Blobs Live On waving hello" src="https://media.tenor.com/4kIHjPaMiDoAAAAj/the-blobs-live-on-waving.gif" />
 
 **Quantum Engineering Enthusiast**
 
