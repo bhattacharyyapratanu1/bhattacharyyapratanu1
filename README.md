@@ -1,4 +1,4 @@
-# Hey there, I'm Pratanu! <img width="36" height="36" alt="Waving blob" src="https://github.com/user-attachments/assets/cd5be311-8ce3-4295-8345-c11119650059" />
+# Hey there, I'm Pratanu! <img width="40" height="40" alt="Waving football" src="https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA1L3NyLWltYWdlLTA4MDUyNS1waS1zLTMwOC1tYW0weml3cC5qcGc.jpg" />
 
 **Quantum Engineering Enthusiast**
 
