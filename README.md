@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there! <img width="30" height="33" alt="the-blobs-live-on-waving" src="https://github.com/user-attachments/assets/cd5be311-8ce3-4295-8345-c11119650059" />
 
 I'm Pratanu, a Quantum Engineering Enthusiast.
 
@@ -10,7 +10,7 @@ I'm currently exploring qubit engineering and next-generation computing, while a
 
 I love learning new things, taking on challenges, and turning random ideas into something real.
 
-Fun Facts:
+### Fun Facts:
 
 - Cricket is one of my favorite sports
 - Football is another passion of mine
