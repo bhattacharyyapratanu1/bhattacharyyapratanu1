@@ -1,6 +1,6 @@
-# Hey there! <img width="30" height="33" alt="the-blobs-live-on-waving" src="https://github.com/user-attachments/assets/cd5be311-8ce3-4295-8345-c11119650059" />
+# Hey there, I'm Pratanu! <img width="36" height="36" alt="Waving blob" src="https://github.com/user-attachments/assets/cd5be311-8ce3-4295-8345-c11119650059" />
 
-I'm Pratanu, a Quantum Engineering Enthusiast.
+**Quantum Engineering Enthusiast**
 
 I'm curious about how things work and love exploring ideas that push the boundaries of technology.
 
