@@ -1,4 +1,4 @@
-# Hey there, I'm Pratanu! <img width="48" height="48" alt="Animated football welcome" src="https://media.giphy.com/media/1wmOyZCT8mtdnY687K/giphy.gif" />
+# Hey there, I'm Pratanu! <img width="56" height="56" alt="Animated football player juggling a ball" src="https://gifdb.com/images/high/transparent-anime-football-player-ball-kicking-yzmuob5ojq3v7dbk.gif" />
 
 **Quantum Engineering Enthusiast**
 
