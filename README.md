@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there!
 
-<!--
-**bhattacharyyapratanu1/bhattacharyyapratanu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pratanu, a Quantum Engineering Enthusiast.
 
-Here are some ideas to get you started:
+I'm curious about how things work and love exploring ideas that push the boundaries of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something catches my interest, chances are I'll dive into it, experiment with it, and try to build something out of it.
+
+I'm currently exploring qubit engineering and next-generation computing, while also enjoying software development and working on creative projects.
+
+I love learning new things, taking on challenges, and turning random ideas into something real.
+
+Fun Facts:
+
+- Cricket is one of my favorite sports
+- Football is another passion of mine
+- EA SPORTS FC and eFootball are my go-to games
+- Hobbies: gaming, exploring new technologies, and building things
+
+Always open to interesting conversations, creative collaborations, and meeting people who love building cool stuff!
