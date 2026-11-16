@@ -1,4 +1,4 @@
-# Hey there! <img width="56" height="56" alt="The Blobs Live On waving hello" src="https://media.tenor.com/4kIHjPaMiDoAAAAj/the-blobs-live-on-waving.gif" />
+# Hey there! <img width="32" height="32" alt="The Blobs Live On waving hello" src="https://media.tenor.com/4kIHjPaMiDoAAAAj/the-blobs-live-on-waving.gif" />
 
 I'm Pratanu, a Quantum Engineering Enthusiast.
 
