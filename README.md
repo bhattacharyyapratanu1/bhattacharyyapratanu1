@@ -1,12 +1,20 @@
-# Hey there, I'm Pratanu! <img width="56" height="56" alt="The Blobs Live On waving hello" src="https://media.tenor.com/4kIHjPaMiDoAAAAj/the-blobs-live-on-waving.gif" />
+# Hey there!
 
-**Quantum Engineering Enthusiast**
+I'm Pratanu, a Quantum Engineering Enthusiast.
+
+
 
 I'm curious about how things work and love exploring ideas that push the boundaries of technology.
 
+
+
 If something catches my interest, chances are I'll dive into it, experiment with it, and try to build something out of it.
 
+
+
 I'm currently exploring qubit engineering and next-generation computing, while also enjoying software development and working on creative projects.
+
+
 
 I love learning new things, taking on challenges, and turning random ideas into something real.
 
